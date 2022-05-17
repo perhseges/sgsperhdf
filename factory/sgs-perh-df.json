@@ -1,0 +1,9 @@
+{
+	"name": "sgs-perh-df",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f99d6682-08cd-4b5d-8c0b-8fb0e43999db",
+		"tenantId": "52c45313-3bb1-43ef-8124-8c8afc9e779c"
+	}
+}

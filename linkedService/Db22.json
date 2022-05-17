@@ -1,0 +1,16 @@
+{
+	"name": "Db22",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "Db2",
+		"typeProperties": {
+			"connectionString": "server=lc08056.lc.skejby;database=testdb;authenticationtype=Basic;username=db2inst1",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIyZTkyMGU2Mi1hZDI4LTQwOTktYTkxYy0yMTZiNTI2NzRjZDMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "lf03745",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

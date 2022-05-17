@@ -1,0 +1,7 @@
+{
+	"name": "lf03745",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "troubleshoot db2 connectivity"
+	}
+}
