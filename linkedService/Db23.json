@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "Db2",
 		"typeProperties": {
-			"connectionString": "server=172.23.0.141:30214;database=bludb;authenticationtype=Basic;username=arl;security=ssl",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiYWY1NzUxZS0xODE5LTRiNGItOThmYi03YjVhMTdiOGRiNjciLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"connectionString": "server=172.23.0.141:30214;database=bludb;authenticationtype=Basic;username=arl",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3ZDE4NDAyMS1lYzJmLTQ0ZjUtYWVjZi03Nzg3YmE0ZTZhY2UiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "lf03745",
