@@ -1,0 +1,12 @@
+{
+	"name": "Db2Table2",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Db23",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Db2Table",
+		"schema": []
+	}
+}
