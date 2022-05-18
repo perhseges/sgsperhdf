@@ -11,7 +11,7 @@
 			},
 			"authenticationType": "Basic",
 			"userName": "arl",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI5MTdmYzZmMC1lNTNhLTRmMWMtOWE0MS1hZTc4NmQyZTE3MTQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4MTU3OTI0Mi1jZjQzLTQ0NzgtOTlmZi1iZTY2Y2MyYmUyMDgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "perh10243",
