@@ -1,0 +1,16 @@
+{
+	"name": "SqlServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=devtest-oedb-sql16.vfltest.dk;initial catalog=oedb;user id=app_reader",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIyYTZjMzlmMS1iNWVkLTQ1ZDAtOTNlZi0zMDM4NjA1ZDQ2NTciLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "perh10243",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
