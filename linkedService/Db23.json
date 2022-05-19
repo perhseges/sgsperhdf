@@ -6,10 +6,10 @@
 		"type": "Db2",
 		"typeProperties": {
 			"connectionString": "server=172.23.0.141:30214;database=bludb;authenticationtype=Basic;username=arl;security=ssl",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhMWU4ZTdmMy05YzgxLTRlYmUtODQ2ZC0yYjdkZWYxM2IyOGMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjODQ4NWVkZC1lMzNlLTRhOGYtODUwNC05NDcyNDNhYTUzZTkiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
-			"referenceName": "lf03745",
+			"referenceName": "perh10243",
 			"type": "IntegrationRuntimeReference"
 		}
 	}
