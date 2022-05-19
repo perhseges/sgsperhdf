@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://sgs-costcenterfunc-prod-fa.azurewebsites.net/api/GetAllCostCenters?code=ZQn28C44aVqpQajeyhdQerDn0td/Uohc4kH5vFmMljaJKfkhk69M6A==",
+			"url": "https://perh-webapitest-as.azurewebsites.net",
 			"enableServerCertificateValidation": false,
 			"authenticationType": "Anonymous"
 		},
