@@ -5,7 +5,7 @@
 		"type": "RestService",
 		"typeProperties": {
 			"url": "https://sgs-costcenterfunc-prod-fa.azurewebsites.net/api/GetAllCostCenters?code=ZQn28C44aVqpQajeyhdQerDn0td/Uohc4kH5vFmMljaJKfkhk69M6A==",
-			"enableServerCertificateValidation": false,
+			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		},
 		"connectVia": {
