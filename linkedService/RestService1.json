@@ -5,7 +5,7 @@
 		"type": "RestService",
 		"typeProperties": {
 			"url": "https://perh-webapitest-as.azurewebsites.net",
-			"enableServerCertificateValidation": true,
+			"enableServerCertificateValidation": false,
 			"authenticationType": "Anonymous"
 		},
 		"connectVia": {
