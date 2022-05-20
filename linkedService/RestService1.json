@@ -1,0 +1,16 @@
+{
+	"name": "RestService1",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://10243:7057/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		},
+		"connectVia": {
+			"referenceName": "perh10243",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
