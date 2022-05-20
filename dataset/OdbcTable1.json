@@ -1,0 +1,12 @@
+{
+	"name": "OdbcTable1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Odbc1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "OdbcTable",
+		"schema": []
+	}
+}

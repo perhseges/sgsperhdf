@@ -1,5 +1,5 @@
 {
-	"name": "TestPipeline1",
+	"name": "OleDbTest",
 	"properties": {
 		"activities": [
 			{
@@ -16,14 +16,13 @@
 				"userProperties": [],
 				"typeProperties": {
 					"source": {
-						"type": "OdbcSource",
-						"queryTimeout": "02:00:00"
+						"type": "Db2Source"
 					},
 					"enableStaging": false
 				},
 				"inputs": [
 					{
-						"referenceName": "OdbcTable1",
+						"referenceName": "Db2Table1",
 						"type": "DatasetReference"
 					}
 				]
