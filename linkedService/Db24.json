@@ -5,7 +5,7 @@
 		"annotations": [],
 		"type": "Db2",
 		"typeProperties": {
-			"connectionString": "server=172.23.0.141:30214;database=bludb;authenticationtype=Basic;username=arl",
+			"connectionString": "server=172.23.0.141:30214;database=bludb;authenticationtype=Basic;username=arl;security=ssl",
 			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0NTAyMzg0MC1mNDQzLTRlYTEtYTUxMy1mNzI5MTc1NmFmYWMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
