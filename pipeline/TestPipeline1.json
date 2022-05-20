@@ -20,13 +20,7 @@
 						"queryTimeout": "02:00:00"
 					},
 					"enableStaging": false
-				},
-				"inputs": [
-					{
-						"referenceName": "OdbcTable1",
-						"type": "DatasetReference"
-					}
-				]
+				}
 			}
 		],
 		"annotations": []
