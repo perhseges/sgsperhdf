@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://perh-webapitest-as.azurewebsites.net",
+			"url": "http://lc08056:8080/WeatherForecast",
 			"enableServerCertificateValidation": false,
 			"authenticationType": "Anonymous"
 		},
