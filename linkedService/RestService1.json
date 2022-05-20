@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "http://localhost:7057",
+			"url": "https://localhost:7057",
 			"enableServerCertificateValidation": false,
 			"authenticationType": "Anonymous"
 		},
