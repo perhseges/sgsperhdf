@@ -1,0 +1,16 @@
+{
+	"name": "Db24",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "Db2",
+		"typeProperties": {
+			"connectionString": "server=172.23.0.141:30214;database=bludb;authenticationtype=Basic;username=arl",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIwMjRhM2Q5YS01OGNkLTRkN2YtYjNlZS00YTAyNTE3M2VhMzgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "perh10243",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
