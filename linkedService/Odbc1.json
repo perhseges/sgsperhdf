@@ -1,0 +1,21 @@
+{
+	"name": "Odbc1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "Odbc",
+		"typeProperties": {
+			"connectionString": {
+				"type": "SecureString",
+				"value": "**********"
+			},
+			"authenticationType": "Basic",
+			"userName": "db2inst1",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJiMTZhY2RjMi0zYjk2LTRlNjQtOTk0ZC02Y2MyYzY5OTVlYWQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "perh10243",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
